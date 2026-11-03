@@ -46,6 +46,7 @@ information regarding copyright ownership.
     <tensorflow.version>1.15.5</tensorflow.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <junit.version>5.8.0-M1</junit.version>
+    <gama.category>gama.category.connect</gama.category>
   </properties>
   <dependencies>
     <dependency>

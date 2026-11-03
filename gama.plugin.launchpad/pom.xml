@@ -10,4 +10,7 @@
     <relativePath>../gama.plugin.parent/</relativePath>
   </parent>
   <version>1.0.0-SNAPSHOT</version>
+  <properties>
+    <gama.category>gama.category.interaction</gama.category>
+  </properties>
 </project>
